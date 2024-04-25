@@ -29,8 +29,10 @@ Run this right after find-centers. You will need to adjust sf_fit =0,1 as approp
 this inherits the obj name (assuming you ran this right after binfit) and converts X/Y to separation and PA, using the distortion solution for NIRC2. 
 
 
-If you use this code, please cite the starfinder code:
+If you use this code, please cite the StarFinder code:
 https://arxiv.org/abs/astro-ph/0004101
+
 as well as one of the following:
 https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M/abstract
+
 https://ui.adsabs.harvard.edu/abs/2016ApJ...817...80D/abstract
